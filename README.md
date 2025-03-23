@@ -1,4 +1,4 @@
-# LLM Playground: Building and Training Language Models from Scratch
+# LLM Playground: Building/Training Language Models from Scratch
 
 A personal learning space where I'm teaching myself how to build LLMs from scratch, step by step. 
 
